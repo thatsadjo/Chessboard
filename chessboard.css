@@ -1,0 +1,36 @@
+
+    .board {
+        width: 640px;
+        height: 640px;
+        /* margin: 50px; */
+        border-style: solid;
+        border-color: #3b2213;
+        border-width: 24;
+        
+    }
+    
+    
+    
+    .brown {
+        float: left;
+        width: 80px;
+        height: 80px;
+        background-color: #774836;
+        font-size: 50px;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    
+    .yellow {
+        float: left;
+        width: 80px;
+        height: 80px;
+        background-color: #D2C59B;
+        font-size: 50px;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    
+  
